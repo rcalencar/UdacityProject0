@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project 0</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btTextSpotifyStreamer">Spotify Streamer</string>
+    <string name="btTextSuperDuo">Super Duo</string>
+    <string name="btTextBuildItBigger">Build It Bigger</string>
+    <string name="btTextXYZReader">XYZ Reader</string>
+    <string name="btTextCapstone">Capstone</string>
+    <string name="txTitle">My Nanodegree Apps!</string>
+</resources>
